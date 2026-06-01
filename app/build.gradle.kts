@@ -73,7 +73,5 @@ dependencies {
 
     implementation(libs.kodein.di)
 
-    implementation(libs.androidx.swiperefreshlayout)
-
     implementation(libs.material3.adaptive.navigation.suite)
 }
